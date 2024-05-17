@@ -15,7 +15,7 @@ ul,ol{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1/17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -75,9 +75,9 @@ ul,ol{
    font-style: normal;
 }
 
-.Advantages-title {
+
   
-}
+
 
 .Advantages-title-name {
     font-family: "Roboto", sans-serif;
@@ -110,9 +110,7 @@ font-family: "Roboto", sans-serif;
     background: #f4f4fd;
 }
 
-.Team-img {
-    
-}
+
 .Team-title-name {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -170,13 +168,14 @@ font-family: "Roboto", sans-serif;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1/17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;}
 
-.logo-part {
+.logo-studio-footer {
 color: #2e2f42;
+color: #f4f4fd;
 }
 
 .Business-title-text{
