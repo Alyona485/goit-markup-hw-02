@@ -97,17 +97,17 @@ ul,ol{
     color: #434455;
 }
 .Team {
-    font-family: "Roboto", sans-serif;
+font-style: normal;
+}
+
+.Team-title {
+font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
     background: #f4f4fd;
-}
-
-.Team-title {
-
 }
 
 .Team-img {
@@ -133,16 +133,16 @@ ul,ol{
     color: #434455;
 }
 .Portfolio {
-    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+.Portfolio-title {
+font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
-
-.Portfolio-title {
-
 }
 
 .Portfolio-title-name {
