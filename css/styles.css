@@ -62,6 +62,8 @@ ul,ol{
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+    color: #404bbf
+    cursor pointer
     }
 
 
@@ -109,6 +111,9 @@ color: #404bbf;
 }
 .team {
 font-style: normal;
+background-color: #F4F4FD
+text-align center
+text-transform capitalize
 }
 
 .team-title {
@@ -119,6 +124,7 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #2e2f42;
     background: #f4f4fd;
+    background-color: #FFFFFF
 }
 
 
@@ -143,6 +149,8 @@ font-family: "Roboto", sans-serif;
 }
 .portfolio {
     font-style: normal;
+    text-align: center
+    text-transform  capitalize
 }
 
 .portfolio-title {
@@ -170,6 +178,7 @@ font-family: "Roboto", sans-serif;
     line-height: 1.50;
     letter-spacing: 0.02em;
     color: #434455;
+    text-align: center
 }
 
 .footer{
