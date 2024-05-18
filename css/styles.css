@@ -64,7 +64,6 @@ ul,ol{
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    color: #404bbf;
     cursor: pointer;
     }
 
@@ -81,19 +80,16 @@ ul,ol{
     background-color: #404BBF;
     cursor: pointer;
 }
-.button:hover{
-    background-color: #404BBF;
-}
+.button:hover ,
 .button:focus{
    color: #404bbf;
-   background-color: #404BBF;
+
 }
 .advantages {
    font-style: normal;
    background-color: #F4F4FD;
    background-color: #FFFFFF;
-    text-align: center;
-    text-transform: capitalize;
+    
 }
 
 .advantages-title-name {
@@ -116,8 +112,7 @@ ul,ol{
 .team {
 font-style: normal;
 background-color: #F4F4FD;
-text-align: center;
-text-transform: capitalize;
+
 }
 
 .team-title {
@@ -157,8 +152,7 @@ font-family: "Roboto", sans-serif;
 }
 .portfolio {
     font-style: normal;
-    text-align: center;
-    text-transform: capitalize;
+  
 }
 
 .portfolio-title {
@@ -177,8 +171,7 @@ font-family: "Roboto", sans-serif;
     line-height: 1.20;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-align: center;
-    text-transform: capitalize;
+  
 }
 
 .portfolio-title-text {
@@ -187,10 +180,8 @@ font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.50;
     letter-spacing: 0.02em;
-    color: #434455;
-    text-align: center;
-    text-transform: capitalize;
-}
+    color: #434455;}
+  
 
 .footer{
     background: #2e2f42;
