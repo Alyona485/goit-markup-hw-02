@@ -79,6 +79,7 @@ ul,ol{
     background: #4d5ae5;
     background-color: #404BBF;
     cursor: pointer;
+    background-color: #4D5AE5;
 }
 .button:hover ,
 .button:focus{
@@ -110,9 +111,11 @@ ul,ol{
     color: #434455;
 }
 .team {
-font-style: normal;
-background-color: #F4F4FD;
-
+    font-style: normal;
+    background-color: #F4F4FD;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #FFFFFF;
 }
 
 .team-title {
@@ -124,6 +127,7 @@ font-family: "Roboto", sans-serif;
     color: #2e2f42;
     background: #f4f4fd;
     background-color: #FFFFFF;
+    
 }
 
 
@@ -152,7 +156,8 @@ font-family: "Roboto", sans-serif;
 }
 .portfolio {
     font-style: normal;
-  
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-title {
