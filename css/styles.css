@@ -81,10 +81,12 @@ ul,ol{
     cursor: pointer;
     background-color: #4D5AE5;
 }
-.button:hover ,
+.button:hover{
+   background-color: #404BBF;
+}
 .button:focus{
    color: #404bbf;
-
+   background-color: #404BBF;
 }
 .advantages {
    font-style: normal;
@@ -117,17 +119,18 @@ ul,ol{
     text-transform: capitalize;
     background-color: #FFFFFF;
     color: #2e2f42;
+    background-color: #F4F4FD;
 }
 
 .team-title {
-font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
     background: #f4f4fd;
-
+    background-color: #FFFFFF;
     
 }
 
