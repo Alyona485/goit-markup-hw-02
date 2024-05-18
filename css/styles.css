@@ -52,7 +52,11 @@ ul,ol{
     font-style: normal;
 }
     
-.effective{background: #2e2f42;}
+.effective{
+    background: #2e2f42;
+    background-color: #404BBF
+    cursor/ pointer
+}
 .title {
     background: #2e2f42;
     font-family: "Roboto", sans-serif;
@@ -81,12 +85,14 @@ ul,ol{
 }
 .button:hover,
 .button:focus{
-color: #404bbf;
-
+   color: #404bbf;
 }
 .advantages {
    font-style: normal;
-
+   background-color: #F4F4FD
+    text-align/ center
+    text-transform/ capitalize
+    background-color/ #FFFFFF
 }
 
 
@@ -113,7 +119,7 @@ color: #404bbf;
 .team {
 font-style: normal;
 background-color: #F4F4FD
-text-align/ center
+text-align center
 text-transform/ capitalize
 }
 
@@ -137,6 +143,8 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    background-color: #F4F4FD
+
 }
 
 .team-title-text {
@@ -147,6 +155,8 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    
+
 }
 .portfolio {
     font-style: normal;
@@ -170,6 +180,8 @@ font-family: "Roboto", sans-serif;
     line-height: 1.20;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center
+    text-transform/ capitalize
 }
 
 .portfolio-title-text {
@@ -180,6 +192,7 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center
+    text-transform/ capitalize
 }
 
 .footer{
@@ -195,8 +208,8 @@ font-family: "Roboto", sans-serif;
     color: #4d5ae5;}
 
 .logo-studio-footer {
-color: #2e2f42;
-color: #f4f4fd;
+    color: #2e2f42;
+    color: #f4f4fd;
 }
 
 .business-title-text{
