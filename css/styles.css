@@ -19,7 +19,7 @@ ul,ol{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    color: #404bbf
+    color: #404bbf;
 }
 
 .logo-part{
@@ -50,13 +50,11 @@ ul,ol{
 .address-link:focus{color: #404bbf;}
 .effective{
     font-style: normal;
+    background: #2e2f42;
+     background-color: #404BBF cursor/ pointer;
 }
     
-.effective{
-    background: #2e2f42;
-    background-color: #404BBF
-    cursor/ pointer
-}
+
 .title {
     background: #2e2f42;
     font-family: "Roboto", sans-serif;
@@ -66,8 +64,8 @@ ul,ol{
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    color: #404bbf
-    cursor/ pointer
+    color: #404bbf;
+    cursor: pointer;
     }
 
 
@@ -80,24 +78,23 @@ ul,ol{
     letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
-    background-color: #404BBF
-    cursor/ pointer
+    background-color: #404BBF;
+    cursor: pointer;
 }
-.button:hover,
+.button:hover{
+    background-color: #404BBF;
+}
 .button:focus{
    color: #404bbf;
+   background-color: #404BBF;
 }
 .advantages {
    font-style: normal;
-   background-color: #F4F4FD
-    text-align/ center
-    text-transform/ capitalize
-    background-color/ #FFFFFF
+   background-color: #F4F4FD;
+   background-color: #FFFFFF;
+    text-align: center;
+    text-transform: capitalize;
 }
-
-
-  
-
 
 .advantages-title-name {
     font-family: "Roboto", sans-serif;
@@ -118,9 +115,9 @@ ul,ol{
 }
 .team {
 font-style: normal;
-background-color: #F4F4FD
-text-align center
-text-transform/ capitalize
+background-color: #F4F4FD;
+text-align: center;
+text-transform: capitalize;
 }
 
 .team-title {
@@ -131,7 +128,7 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #2e2f42;
     background: #f4f4fd;
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 
@@ -143,7 +140,7 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 
 }
 
@@ -160,8 +157,8 @@ font-family: "Roboto", sans-serif;
 }
 .portfolio {
     font-style: normal;
-    text-align: center
-    text-transform/ capitalize
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-title {
@@ -180,8 +177,8 @@ font-family: "Roboto", sans-serif;
     line-height: 1.20;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-align: center
-    text-transform/ capitalize
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-title-text {
@@ -191,8 +188,8 @@ font-family: "Roboto", sans-serif;
     line-height: 1.50;
     letter-spacing: 0.02em;
     color: #434455;
-    text-align: center
-    text-transform/ capitalize
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .footer{
