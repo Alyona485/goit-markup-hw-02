@@ -117,6 +117,7 @@ ul,ol{
     text-align: center;
     text-transform: capitalize;
     background: #f4f4fd;
+    color: #2e2f42;
 }
 
 .team-title {
@@ -125,8 +126,11 @@ ul,ol{
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-  
+    color: #2e2f42;
     
+}
+.team-our {
+    background-color: #FFFFFF;
 }
 .team-img {
     background-color: #FFFFFF;
@@ -141,7 +145,7 @@ ul,ol{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #FFFFFF;
+    
 }
 
 .team-title-text {
@@ -152,7 +156,7 @@ ul,ol{
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    background-color: #FFFFFF;
+   
 
 }
 .portfolio {
