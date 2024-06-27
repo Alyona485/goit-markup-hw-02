@@ -228,19 +228,19 @@ font-family: "Roboto", sans-serif;
     text-align: center;
 }
 
-.review img {
+.review-photo {
     border-radius: 50%;
     width: 56px;
     height: 56px;
     object-fit: cover;
 }
 
-.review h3 {
+.review-title-name {
     font-size: 1.2em;
     margin: 8px 0;
 }
 
-.review p {
+.review-title-text {
     font-size: 0.9em;
     color: #555;
 }
