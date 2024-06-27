@@ -200,10 +200,13 @@ font-family: "Roboto", sans-serif;
     background-color: #fff;
 }
 .reviews-title{
-    font-size: 2em;
     margin-bottom: 20px;
     text-align: left;
     background: #fbfbfb;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 92%;
+    letter-spacing: -0.02em;
 }
 .reviews-section h2 {
     font-size: 2em;
@@ -236,13 +239,22 @@ font-family: "Roboto", sans-serif;
 }
 
 .review-title-name {
-    font-size: 1.2em;
     margin: 8px 0;
+    background: #fbfbfb;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 110%;
+    letter-spacing: -0.02em;
+    text-align: center;
 }
 
 .review-title-text {
-    font-size: 0.9em;
-    color: #555;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: rgba(12, 12, 12, 0.4);
 }
 
 /* ---------------------*/
